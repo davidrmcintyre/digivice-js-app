@@ -11,7 +11,7 @@ A responsive web application using HTML, CSS and JavaScript that loads data from
 
 ## Instructions:
 
-Please visit the app 
+Please visit the app [here](https://davidrmcintyre.github.io/digivice-js-app/)
 
 ## API
 
